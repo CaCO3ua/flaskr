@@ -1,0 +1,4 @@
+[submodule "image_resizer"]
+	path = image_resizer
+	url = https://github.com/CaCO3ua/image_resizer.git
+	branch = resizer
